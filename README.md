@@ -46,7 +46,7 @@ Module de Maths.
 
 ![c06](https://github.com/Misthaa/piscine_2k23/assets/113677180/66a5ae17-7dbb-4bd4-b4c8-8c37bc428ba2)
 
-Module simple mais important à faire, et au plus vite pour ne pas vous perdre pour la suite. Je conseil de le faire avant le C05 !
+Module simple mais important à faire, et au plus vite pour ne pas vous perdre pour la suite. Je conseille de le faire avant le C05 !
 
 <h2>C07 :</h2>
 
