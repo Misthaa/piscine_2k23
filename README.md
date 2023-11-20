@@ -2,7 +2,7 @@
 
 <strong>❗❗ Ces fichiers ne sont pas là pour être utilisé pendant une piscine. Je vous conseille très vivement de ne pas copier les codes ni même de les regarder. Un tuteur ou un staff pourrait vous pénaliser.❗❗</strong>
 
-C'est résultats très correct que j'ai réalisé et le fait que ça soit ma deuxieme piscine et un peu d'entrainement. Une personne n'aillant jamais codé et en ayant un rythme normal en piscine (≈10h mini/jours) peut difficelement arriver jusqu'au C11. Donc pas de pression!
+C'est résultats très correct que j'ai réalisé et le fait que ça soit ma deuxieme piscine et un peu d'entrainement. Une personne n'aillant jamais codé et en ayant un rythme normal en piscine (≈10h mini/jours) peut difficelement arriver jusqu'au C11, la moyenne d'une piscine normal arrive au C07 environ. Donc pas de pression!
 
 <h1>Résultat de la moulinette avec des infos complémentaires : </h1>
 
@@ -64,9 +64,11 @@ Introduction des headers.
 
 ![c09](https://github.com/Misthaa/piscine_2k23/assets/113677180/f6221009-46db-4f77-ae9a-bd7f351e55a2)
 
+Introduction Makefile et .h, ft_split est aussi en mendatory donc a faire à 100%.
+
 <h2>C10 :</h2>
 
-J'ai personellement skip le C10 qui est le module breaker de un peu près tout le monde durant ce mois. Pour le valider tout les exos sont mendatory et prennent beaucoup de temps à réaliser et sont évidemment pas facile a valider (D'autant plus que la moulinette du C10 étais cassé dans notre piscine.)
+J'ai personellement skip le C10 qui est le module breaker de un peu près tout le monde durant ce mois. Pour le valider tout les exos sont mendatory et prennent beaucoup de temps à réaliser et sont évidemment pas facile à valider (D'autant plus que la moulinette du C10 était cassé dans notre piscine.)
 
 <h2>C11 :</h2>
 
@@ -78,20 +80,22 @@ Introduction aux pointeurs sur fonction.
 
 ![RUSH00](https://github.com/Misthaa/piscine_2k23/assets/113677180/db4e1c42-2fe5-4ae7-8e02-005fe4f68098)
 
-Dommage ! Le rush c'est extrement bien réalisé mais une petite erreure de lecture du sujet, nous n'avous pas mis le rush dans "ex00"..
+Dommage ! Le rush c'est extrement bien réalisé mais une petite erreure de lecture du sujet, nous n'avons pas mis le rush dans "ex00"..
 
 <h2>Rush01 :</h2>
 
 ![rush01](https://github.com/Kum1ta/piscine_072023/assets/59119791/45493f9e-0649-4f1e-96de-9ec59d0f3151)
+
 Le code fonctionne très bien mais problème d'optimisation. La fonction define_locate() est ultra lente donc il suffit de la remplacer pour des calculs et ça sera bien plus efficace. Tel quel, le programme fait les maps de 1x1 à 6x6.
 
 <h2>Rush02 :</h2>
 
-Je n'ai pas fait ce rush ultime qui a vraiment l'air interessant, je ne l'ai pas fais pour avancer sur mes days mais je vous conseil tout de meme de le faire si vous n'etes pas trop en retard.
+Je n'ai pas fait ce rush ultime qui a vraiment l'air interessant, je ne l'ai pas fais pour avancer sur mes days mais je vous conseille tout de même de le faire si vous n'êtes pas trop en retard.
 
 <h2>BSQ :</h2>
 
 ![bsq](https://github.com/Kum1ta/piscine_072023/assets/59119791/114a7f5c-f754-427d-a42f-6f24b9c22024)
+
 Le bsq était reussi mais 2 petits problémes : 
 _ Une petite erreur en cas de problème de malloc dans fill_buffer. Il manque un * dans la condition.
 _ On a oublié de remettre une fonction qui verifie qu'il n'y a que les caractères présents dans la première ligne dans toute la map.
