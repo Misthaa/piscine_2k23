@@ -80,7 +80,7 @@ Introduction aux pointeurs sur fonction.
 
 ![RUSH00](https://github.com/Misthaa/piscine_2k23/assets/113677180/db4e1c42-2fe5-4ae7-8e02-005fe4f68098)
 
-Dommage ! Le rush c'est extrement bien réalisé mais une petite erreure de lecture du sujet, nous n'avons pas mis le rush dans "ex00"..
+Dommage ! Le rush c'est extrêmement bien réalisé mais une petite erreur de lecture du sujet, nous n'avons pas mis le rush dans "ex00"..
 
 <h2>Rush01 :</h2>
 
@@ -90,7 +90,7 @@ Le code fonctionne très bien mais problème d'optimisation. La fonction define_
 
 <h2>Rush02 :</h2>
 
-Je n'ai pas fait ce rush ultime qui a vraiment l'air interessant, je ne l'ai pas fais pour avancer sur mes days mais je vous conseille tout de même de le faire si vous n'êtes pas trop en retard.
+Je n'ai pas fait ce rush ultime qui a vraiment l'air interessant, je ne l'ai pas fait pour avancer sur mes days mais je vous conseille tout de même de le faire si vous n'êtes pas trop en retard.
 
 <h2>BSQ :</h2>
 
