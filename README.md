@@ -40,7 +40,7 @@ Pour les shells, je vous conseille de ne pas perdre de temps dessus, ces modules
 
 ![c05](https://github.com/Misthaa/piscine_2k23/assets/113677180/06b9d68e-b19d-4a0c-ab13-e253dd49441e)
 
-Module de Maths...
+Module de Maths.
 
 <h2>C06 :</h2>
 
