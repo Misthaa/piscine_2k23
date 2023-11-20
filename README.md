@@ -2,7 +2,7 @@
 
 <strong>❗❗ Ces fichiers ne sont pas là pour être utilisé pendant une piscine. Je vous conseille très vivement de ne pas copier les codes ni même de les regarder. Un tuteur ou un staff pourrait vous pénaliser.❗❗</strong>
 
-C'est résultats très correct que j'ai réalisé et le fait que ça soit ma deuxieme piscine et un peu d'entrainement. Une personne n'aillant jamais codé et en ayant un rythme normal en piscine (≈10h mini/jours) peut difficelement arriver jusqu'au C11, la moyenne d'une piscine normal arrive au C07 environ. Donc pas de pression!
+Ces résultats très correct que j'ai réalisé et le fait que ça soit ma deuxieme piscine et un peu d'entrainement. Une personne n'aillant jamais codé et en ayant un rythme normal en piscine (≈10h mini/jours) peut difficelement arriver jusqu'au C11, la moyenne d'une piscine normal arrive au C07 environ. Donc pas de pression!
 
 <h1>Résultat de la moulinette avec des infos complémentaires : </h1>
 
