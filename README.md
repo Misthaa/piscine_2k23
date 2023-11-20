@@ -68,7 +68,7 @@ Introduction Makefile et .h, ft_split est aussi en mendatory donc a faire à 100
 
 <h2>C10 :</h2>
 
-J'ai personellement skip le C10 qui est le module breaker de un peu près tout le monde durant ce mois. Pour le valider tout les exos sont mendatory et prennent beaucoup de temps à réaliser et sont évidemment pas facile à valider (D'autant plus que la moulinette du C10 était cassé dans notre piscine.)
+J'ai personellement skip le C10 qui est le module breaker de un peu près tout le monde durant ce mois. Pour le valider tous les exos sont mandatory et prennent beaucoup de temps à réaliser et sont évidemment pas facile à valider (D'autant plus que la moulinette du C10 était cassée dans notre piscine.)
 
 <h2>C11 :</h2>
 
